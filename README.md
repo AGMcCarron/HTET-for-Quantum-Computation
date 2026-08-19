@@ -1,5 +1,4 @@
-# Project Name: Digitisation Errors and Hamiltonian Truncation Effective Theory in 0+1D
-Scalar Field Theory for Quantum Computation
+# Project Name: Digitisation Errors and Hamiltonian Truncation Effective Theory in 0+1D Scalar Field Theory for Quantum Computation
 
 **Author:** Alex McCarron
 
