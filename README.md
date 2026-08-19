@@ -2,9 +2,10 @@
 Scalar Field Theory for Quantum Computation
 
 **Author:** Alex McCarron
+
 **Date:** Oct 25 - Apr 26
 
-Description:
+## Description:
 This project was developed as part of my Master's degree at Durham University studying Physics. It explores the application of quantum computing techniques to particle physics, with a particular focus on the digitisation and simulation of scalar quantum field theories.
 
 See "Alex McCarron Exploring Quantum Computing in Particle Physics.pdf" for full details of the project, methodology, and results. A full list of references can be found here as well.
